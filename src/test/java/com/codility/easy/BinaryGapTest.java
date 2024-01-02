@@ -1,4 +1,4 @@
-package com.codility.bitwise_operations.easy;
+package com.codility.easy;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

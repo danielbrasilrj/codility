@@ -1,4 +1,4 @@
-package com.codility.bitwise_operations.easy;
+package com.codility.easy;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
