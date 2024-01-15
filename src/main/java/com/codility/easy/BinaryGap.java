@@ -21,6 +21,7 @@ import java.util.regex.Pattern;
  */
 public class BinaryGap {
 
+    // 86%
     public int solution(int N) {
         final var binary = Integer.toBinaryString(N);
         if (!hasGap(binary)) {
